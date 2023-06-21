@@ -1,0 +1,25 @@
+[   {
+    "id":100200,
+    "titulo":"Las Aventuras de Fran",
+    "genero":["Aventuras","Acción","Animación","Comedia","Drama","Ciencia ficción","Terror","Suspenso","Romántica"],
+    "duracion":"2.10.5",
+    "sinopsis":"Fran un chico de ciudad se enbarca en una busqueda caprichosa hacia la peligrosa Amazonas por una leyenda que escucho en la escuela,lo que no sabe es que pondra a prueba todo lo que creia saber",
+    "pais":"Argentina",
+    "idioma":"Latino",
+    "clasificacion":["ATP","PG","PG-13","R","NC-17"],
+    "calificacion":"9.5",
+    "disponible":"Disponible"
+},    
+    {"id":100,
+    "titulo":"lucas",
+    "genero":["Aventuras","Acción","Animación","Comedia","Drama","Ciencia ficción","Terror","Suspenso","Romántica"],
+    "duracion":"2.10.5",
+    "sinopsis":"Un chico de ciudad se enbarca en una busqueda caprichosa hacia la peligrosa Amazonas por una leyenda que escucho en la escuela,lo que no sabe es que pondra a prueba todo lo que creia saber",
+    "pais":"Argentina",
+    "idioma":"Latino",
+    "clasificacion":["ATP","PG","PG-13","R","NC-17"],
+    "calificacion":"9.5",
+    "disponible":"Disponible"
+}
+]
+     
